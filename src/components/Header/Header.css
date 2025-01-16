@@ -24,6 +24,6 @@
     padding-right: 20px;
 }
 
-.tab:hover {
+.tab.active {
     background-color: #1E88E5;
 }
