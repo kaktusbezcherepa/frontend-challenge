@@ -1,5 +1,7 @@
 import React from 'react'
 import FileldHeart from "../../assets/FilledHeart.svg"
+import './LikedCats.css';
+
 
 interface Cat {
   id: string;

@@ -1,6 +1,9 @@
 import React from 'react'
 import FileldHeart from "../../assets/FilledHeart.svg"
 import NotFileldHeart from "../../assets/notFilledHeart.svg"
+import "./AllCats.css"
+
+
 interface Cat {
   id: string;
   url: string;
